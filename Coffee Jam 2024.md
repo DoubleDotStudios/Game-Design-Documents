@@ -9,23 +9,23 @@
 
 ### Name
 
-[] -
-[] -
-[] -
+- [ ] -
+- [ ] -
+- [ ] -
 
 #### Genre
 
-[] Automation
-[x] Puzzle
+- [ ] Automation
+- [x] Puzzle
 
 #### Both
 
-[] Seaside cafe
+- [ ] Seaside cafe
 
 #### Coffee
 
-[x] Inside a coffee machine
-[] "" : Sea water instead of fresh water.
+- [x] Inside a coffee machine
+- [ ] "" : Sea water instead of fresh water.
 
 #### Style
 
@@ -34,27 +34,27 @@
 
 ### Concepts
 
-[] Bean Collection
-[] Grinding
-[] Boil Water
-[] Mixing and the water
-[] Pouring the coffee
+- [ ] Bean Collection
+- [ ] Grinding
+- [ ] Boil Water
+- [ ] Mixing and the water
+- [ ] Pouring the coffee
 
-[] Medals for times
+- [ ] Medals for times
 
 ### Core Mechanics
 
-[] Lifting
-[] Jumping
-[] Movement
+- [ ] Lifting
+- [ ] Jumping
+- [ ] Movement
 
 ### Advanced Mechanics
 
-[] Wall sliding
-[] Wall jumping
-[] Running
-[] Sliding
-[] Interaction
+- [ ] Wall sliding
+- [ ] Wall jumping
+- [ ] Running
+- [ ] Sliding
+- [ ] Interaction
 
 ### Aim
 
