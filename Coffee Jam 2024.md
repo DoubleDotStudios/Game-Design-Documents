@@ -9,9 +9,9 @@
 
 ### Name
 
-- [ ] -
-- [ ] -
-- [ ] -
+- [ ] Caffeine Rush
+- [ ] Caffieneer
+- [ ] [Viewer Idea]
 
 #### Genre
 
