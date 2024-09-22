@@ -1,11 +1,13 @@
-## Coffee Jam 2024
+# Coffee Jam 2024
 
-### Themes
+## Themes
 
 - Coffee
 - Sea
 
-### Ideas
+---
+
+## Ideas
 
 ### Name
 
@@ -13,26 +15,28 @@
 - [ ] Caffieneer
 - [ ] [Viewer Idea]
 
-#### Genre
+### Genre
 
 - [ ] Automation
 - [x] Puzzle
 
-#### Both
+### Both
 
 - [ ] Seaside cafe
 
-#### Coffee
+### Coffee
 
 - [x] Inside a coffee machine
 - [ ] "" : Sea water instead of fresh water.
 
-#### Style
+### Style
 
 - 2D Pixelart
 - Platformer
 
-### Concepts
+---
+
+## Concepts
 
 - [ ] Bean Collection
 - [ ] Grinding
@@ -42,13 +46,17 @@
 
 - [ ] Medals for times
 
-### Core Mechanics
+---
+
+## Core Mechanics
 
 - [ ] Lifting
 - [x] Jumping
 - [x] Movement
 
-### Advanced Mechanics
+---
+
+## Advanced Mechanics
 
 - [x] Wall sliding
 - [x] Wall jumping
@@ -56,21 +64,27 @@
 - [ ] Sliding
 - [ ] Interaction
 
-### Aim
+---
+
+## Aim
 
 - Deliver a single cup of coffee as fast as possible
 
-### Timeline
+---
 
-#### Day 1
+## Timeline
+
+### Day 1
 
 - Ground tiles
 - Basic movement
 
-#### Day 2
+### Day 2
 
 - Coyote time
 - Wall jumping
 - Wall sliding
 
-### Reflection
+---
+
+## Reflection
