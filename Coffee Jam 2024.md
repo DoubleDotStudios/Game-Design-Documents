@@ -45,13 +45,13 @@
 ### Core Mechanics
 
 - [ ] Lifting
-- [ ] Jumping
-- [ ] Movement
+- [x] Jumping
+- [x] Movement
 
 ### Advanced Mechanics
 
-- [ ] Wall sliding
-- [ ] Wall jumping
+- [x] Wall sliding
+- [x] Wall jumping
 - [ ] Running
 - [ ] Sliding
 - [ ] Interaction
@@ -59,5 +59,18 @@
 ### Aim
 
 - Deliver a single cup of coffee as fast as possible
+
+### Timeline
+
+#### Day 1
+
+- Ground tiles
+- Basic movement
+
+#### Day 2
+
+- Coyote time
+- Wall jumping
+- Wall sliding
 
 ### Reflection
