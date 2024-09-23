@@ -11,7 +11,7 @@
 
 ### Name
 
-- [ ] Caffeine Rush
+- [x] Caffeine Rush
 - [ ] Caffieneer
 - [ ] [Viewer Idea]
 
@@ -84,6 +84,15 @@
 - Coyote time
 - Wall jumping
 - Wall sliding
+
+### Day 3
+
+- Player art
+- Player animations
+- Fixed a wall jump bug
+- Fixed an animation bug
+- Added Interactables
+- BEAN art
 
 ---
 
