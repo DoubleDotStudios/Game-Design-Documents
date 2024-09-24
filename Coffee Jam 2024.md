@@ -20,9 +20,9 @@
 - [ ] Automation
 - [x] Puzzle
 
-### Both
+~### Both~
 
-- [ ] Seaside cafe
+~- [ ] Seaside cafe~
 
 ### Coffee
 
@@ -50,7 +50,7 @@
 
 ## Core Mechanics
 
-- [ ] Lifting
+- [x] Lifting
 - [x] Jumping
 - [x] Movement
 
@@ -61,7 +61,7 @@
 - [x] Wall sliding
 - [x] Wall jumping
 - [ ] Running
-- [ ] Sliding
+      ~- [ ] Sliding~
 - [ ] Interaction
 
 ---
@@ -93,6 +93,17 @@
 - Fixed an animation bug
 - Added Interactables
 - BEAN art
+
+### Day 4
+
+- Fixed an interactables bug
+- Added the BEAN
+- Improved interactables system
+- Made title screen art
+- Added title screen elements
+- Added the timer
+- Added screen transitions
+- Title screen background
 
 ---
 
