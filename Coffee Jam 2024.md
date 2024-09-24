@@ -20,10 +20,6 @@
 - [ ] Automation
 - [x] Puzzle
 
-~### Both~
-
-~- [ ] Seaside cafe~
-
 ### Coffee
 
 - [x] Inside a coffee machine
@@ -61,7 +57,6 @@
 - [x] Wall sliding
 - [x] Wall jumping
 - [ ] Running
-      ~- [ ] Sliding~
 - [ ] Interaction
 
 ---
