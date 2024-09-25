@@ -56,7 +56,7 @@
 
 - [x] Wall sliding
 - [x] Wall jumping
-- [ ] Running
+- [x] Running
 - [ ] Interaction
 
 ---
@@ -99,6 +99,16 @@
 - Added the timer
 - Added screen transitions
 - Title screen background
+
+### Day 5
+
+- Added running
+- Added button pressed noise
+- Added button hover noise
+- Added transition noises
+- Added player sfx
+- Added the first section
+- Added game background
 
 ---
 
