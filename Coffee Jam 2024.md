@@ -34,13 +34,13 @@
 
 ## Concepts
 
-- [ ] Bean Collection
+- [x] Bean ~Collection~ Pushing
 - [ ] Grinding
 - [ ] Boil Water
-- [ ] Mixing and the water
+- [ ] Mixing the water and coffee
 - [ ] Pouring the coffee
 
-- [ ] Medals for times
+- [x] Medals for times
 
 ---
 
@@ -57,7 +57,7 @@
 - [x] Wall sliding
 - [x] Wall jumping
 - [x] Running
-- [ ] Interaction
+- [x] Interaction
 
 ---
 
@@ -109,6 +109,16 @@
 - Added player sfx
 - Added the first section
 - Added game background
+
+### Day 6
+
+- Finished the first section
+- Added finish panel
+- Added medals
+- Added more player sfx
+- Added "Actor, Reactor System"
+- Added music
+- Added player particles
 
 ---
 
