@@ -46,7 +46,7 @@
 
 ## Core Mechanics
 
-- [x] Lifting
+- [x] ~Lifting~ Pushing
 - [x] Jumping
 - [x] Movement
 
