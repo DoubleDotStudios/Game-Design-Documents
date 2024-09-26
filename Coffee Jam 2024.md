@@ -118,6 +118,7 @@
 - Added more player sfx
 - Added "Actor, Reactor System"
 - Added music
+- Added timer noises
 
 ---
 
