@@ -35,10 +35,13 @@
 ## Concepts
 
 - [x] Bean ~Collection~ Pushing
-- [ ] Grinding
-- [ ] Boil Water
-- [ ] Mixing the water and coffee
-- [ ] Pouring the coffee
+- [x] Grinding
+
+~- [ ] Boil Water~
+
+~- [ ] Mixing the water and coffee~
+
+~- [ ] Pouring the coffee~
 
 - [x] Medals for times
 
@@ -120,6 +123,35 @@
 - Added music
 - Added timer noises
 
+### Day 7
+
+- Added tips at the beginning
+- Play testing
+
+### Day 8
+
+- Fixed tip bug
+- Finished second area
+- Added more interactable points
+
+### Day 9
+
+- Finished the third section
+- Finished last section
+- Implemeted finish panel
+- Play testing
+
+### Day 10
+
+- Added the pause menu
+
+### Day 11
+
+- Finished up the map
+- Removed "Best Time"
+
 ---
 
 ## Reflection
+
+Godot crashes randomly alot on linux. :(
