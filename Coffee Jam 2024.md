@@ -152,6 +152,19 @@
 
 ---
 
+## Positioning and Score
+
+- Position: 5th
+- Overall score: 3.7/5
+- Highest category: Fun(3rd)
+- Lowest category: Special Theme(41st)
+
 ## Reflection
+
+The game was fun and entertaining, people would spend time trying to beat their time to get a better one. The way I implemeted Wall Jumping was not desirable for many players and became a hindrance. Instead of having it push you off the wall it should instead leave the player to go to the next wall. People found that the Wall Jumping was finicky in that having to press into the wall and jump was difficult to pull off. This was probably due to me getting extremely comfortable with the controls and not giving the game to anyone for testing during development. Simply put, I fell into the trap of becoming used to your game's controls and complacent with them.
+
+Overall, people thought the game was fun (ranking 3rd in the category) but the art and use of the theme and secondary theme could've been greater potentially pushing the game into 4th or 3rd. The art could also have done with a bit of a rework.
+
+## Notes
 
 Godot crashes randomly alot on linux. :(
