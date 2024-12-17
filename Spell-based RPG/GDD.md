@@ -19,9 +19,9 @@
 
 ## Mechanics
 
+- [Movement](#movement)
 - Spell casting
 - [Spells](#spells)
-- Movement
 - Abilities
 - Item collection
 - Quests
@@ -63,11 +63,11 @@
 
 ---
 
-## Movement Mechanics
+## Movement
 
 - Walking
 - Running
-- Dashing
+- [Dashing](#dashing)
 
 ### Dashing
 
