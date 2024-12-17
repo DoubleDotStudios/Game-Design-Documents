@@ -20,7 +20,7 @@
 ## Mechanics
 
 - Spell casting
-- Spells
+- [Spells](#spells)
 - Movement
 - Abilities
 - Item collection
