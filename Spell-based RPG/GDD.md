@@ -20,7 +20,7 @@
 ## Mechanics
 
 - Spell casting
-- Spells [^1]
+- [Spells](#spells)
 - Movement [^2]
 - Abilities
 - Item collection
@@ -30,7 +30,7 @@
 
 ---
 
-## [^1]: Spells
+## Spells {#spells}
 
 > Names of classes and spells to be confirmed
 
