@@ -20,8 +20,8 @@
 ## Mechanics
 
 - Spell casting
-- Spells[^1]
-- Movement[^2]
+- Spells [^1]
+- Movement [^2]
 - Abilities
 - Item collection
 - Quests
@@ -67,7 +67,7 @@
 
 - Walking
 - Running
-- Dashing[^3]
+- Dashing [^3]
 
 ### [^3]: Dashing
 
