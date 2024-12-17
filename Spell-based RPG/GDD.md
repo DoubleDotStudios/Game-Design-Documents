@@ -19,9 +19,9 @@
 
 ## Mechanics
 
-- Movement[^1]
 - Spell casting
-- Spells[^2]
+- Spells[^1]
+- Movement[^2]
 - Abilities
 - Item collection
 - Quests
@@ -30,7 +30,7 @@
 
 ---
 
-## [2]: Spells
+## [^1]: Spells
 
 > Names of classes and spells to be confirmed
 
@@ -63,13 +63,13 @@
 
 ---
 
-## [1]: Movement Mechanics
+## [^2]: Movement Mechanics
 
 - Walking
 - Running
 - Dashing[^3]
 
-### [3]: Dashing
+### [^3]: Dashing
 
 - Base Dash
 - Ghost Dash
