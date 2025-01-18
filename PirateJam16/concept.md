@@ -12,7 +12,14 @@ In the context of a [name] being the weapon isn't being physically held. The env
 |Mechanic|Image|
 |--------|-----|
 |Random Movement||
-|Booby Traps||
+|[Booby Traps](#booby-traps)||
+
+### Booby Traps
+|Trap|Image|
+|----|-----|
+|Arrows||
+|Flamethrower||
+|Bomb||
 
 ## Secondary Mechanics
 |Mecanic|Image|
