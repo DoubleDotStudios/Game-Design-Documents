@@ -11,10 +11,11 @@ In the context of a [name] being the weapon isn't being physically held. The env
 ## Primary Mechanics
 |Mechanic|Image|
 |--------|-----|
-|Random Movement|image|
+|Random Movement||
+|Booby Traps||
 
 ## Secondary Mechanics
 |Mecanic|Image|
 |-------|-----|
-|Environmental Damage|image|
-|Upgrades|image|
+|Environmental Damage||
+|Upgrades||
