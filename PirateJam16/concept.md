@@ -20,6 +20,8 @@ In the context of a [name] being the weapon isn't being physically held. The env
 |Arrows||
 |Flamethrower||
 |Bomb||
+|Crate||
+|Crumbling Floor Tiles||
 
 ## Secondary Mechanics
 |Mecanic|Image|
