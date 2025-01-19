@@ -13,6 +13,7 @@ In the context of a [name] being the weapon isn't being physically held. The env
 |--------|-----|
 |Random Movement||
 |[Booby Traps](#booby-traps)||
+|Positive Upgrades||
 
 ### Booby Traps
 |Trap|Image|
@@ -21,10 +22,10 @@ In the context of a [name] being the weapon isn't being physically held. The env
 |Flamethrower||
 |Bomb||
 |Crate||
-|Crumbling Floor Tiles||
 
 ## Secondary Mechanics
 |Mecanic|Image|
 |-------|-----|
 |Environmental Damage||
-|Upgrades||
+|Negative Upgrades||
+|Emergency Traps||
