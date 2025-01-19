@@ -8,6 +8,6 @@
 2. [Introduction](<./intro.md>)
 3. [Concept](<./concept.md>)
 4. [Art](<./art.md>)
-5. Audio
-6. Game Experience
+5. [Audio](<./audio.md>)
+6. [Game Experience](<./experience.md>)
 7. [Dev Timeline](<./timeline.md>)
