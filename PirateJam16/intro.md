@@ -12,7 +12,7 @@ A fun puzzle boss rush game. Each boss is unique and has phases only suceptible 
 A battle simulator where you control troops with uniqueattacks to defend and defeat other armies. Strategy is involved due to a limited amount of money that can be spent on troops. The inspiration from this is the control over what you use with the limitation of a cooldown.
 
 ## Player Experience
-For [n] rooms you must strategically use your traps to defeat the bosses. Each of your traps has a cooldown so be strategic about what you use at what time. Each boss has a unique set of attacks so be ready for anything. I your adventurer is to perish then you'll have to start again and learn from your mistakes.
+For 4 rooms you must strategically use your traps to defeat the bosses. Each of your traps has a cooldown so be strategic about what you use at what time. Each boss has a unique set of attacks so be ready for anything. I your adventurer is to perish then you'll have to start again and learn from your mistakes.
 
 ## Platform
 The game is developed primarily for Web.
