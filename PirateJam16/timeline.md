@@ -1,8 +1,8 @@
 # Timeline
 
-~ - Not Started
-\* - In progress
-x - Finished
+~ - Not Started  
+\* - In progress  
+x - Finished  
 
 |#|Task|Type|Status|Finish By|Notes|
 |-|----|----|------|---------|-----|
@@ -22,3 +22,10 @@ x - Finished
 |14|Main menu|Coding|~|`30/1/25`||
 |15|Pause menu|Coding|~|`30/1/25`||
 |16|**SUBMIT**|Other|~|`31/1/25`||
+
+## Extra (if time allows)
+|Task|Type|Status|Notes|
+|-|-|-|-|
+|Settings Menu|Coding|~||
+|More Booby Traps|Other|~||
+|Extra Boss|Other|~||
