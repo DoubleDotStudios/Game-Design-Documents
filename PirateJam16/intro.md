@@ -5,6 +5,11 @@
 
 ## Inspiration
 
+#### [Weapon Exchange Box](https://zye-3.itch.io/weapon-exchange-box)
+A fun puzzle boss rush game. Each boss is unique and has phases only suceptible to a color. You must pick and choose your weapons wisely as you wneture through each room to defaet bosses. This is the inspiration for the boss rooms that you control.
+
+#### [TABS](https://store.steampowered.com/app/508440/Totally_Accurate_Battle_Simulator/)
+
 ## Player Experience
 For [n] rooms you must strategically use your traps to defeat the bosses. Each of your traps has a cooldown so be strategic about what you use at what time. Each boss has a unique set of attacks so be ready for anything. I your adventurer is to perish then you'll have to start again and learn from your mistakes.
 
