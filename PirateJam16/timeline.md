@@ -29,3 +29,4 @@ x - Finished
 |Settings Menu|Coding|~||
 |More Booby Traps|Other|~||
 |Extra Boss|Other|~||
+|Adventurer customisation|Art|~||
