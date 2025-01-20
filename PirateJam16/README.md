@@ -1,4 +1,5 @@
-# Pirate Jam 16
+# [NAME]
+> By DDS for the PirateSoftware Jam 16
 
 ## Theme
 - You Are The Weapon
