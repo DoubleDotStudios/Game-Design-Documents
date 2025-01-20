@@ -2,12 +2,12 @@
 
 ~ - Not Started  
 \* - In progress  
-x - Finished  
+X - Finished  
 
 |#|Task|Type|Status|Finish By|Notes|
 |-|----|----|------|---------|-----|
-|1|Design Document|Other|x|`20/1/25`||
-|2|Tileset|Art|*|`21/1/25`||
+|1|Design Document|Other|X|`20/1/25`||
+|2|Tileset|Art|X|`21/1/25`||
 |3|Player sprites|Art|~|`21/1/25`||
 |4|Player movement algorithm|Coding|~|`22/1/25`||
 |5|Boss art|Art|~|`24/1/25`||
