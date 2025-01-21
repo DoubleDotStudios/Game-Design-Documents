@@ -15,7 +15,7 @@ X - Finished
 |7|Health and damage system|Coding|~|`25/1/25`||
 |8|Booby trap art|Art|~|`26/1/25`||
 |9|Booby traps|Coding|~|`26/1/25`||
-|10|SFX|Audio|~|`26/2/25`||
+|10|SFX|Audio|*|`26/2/25`||
 |11|Room design|Other|~|`27/1/25`||
 |12|Main theme|Audio|~|`28/1/25`||
 |13|Boss themes|Audio|~|`29/1/25`|Short loops to create themes|
