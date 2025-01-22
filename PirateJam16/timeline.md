@@ -8,7 +8,7 @@ X - Finished
 |-|----|----|------|---------|-----|
 |1|Design Document|Other|X|`20/1/25`||
 |2|Tileset|Art|X|`21/1/25`||
-|3|Player sprites|Art|~|`21/1/25`||
+|3|Player sprites|Art|X|`21/1/25`||
 |4|Player movement algorithm|Coding|~|`22/1/25`||
 |5|Boss art|Art|~|`24/1/25`||
 |6|Boss movement algorithm|Coding|~|`25/1/25`||
