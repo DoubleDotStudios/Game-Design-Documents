@@ -17,8 +17,8 @@ X - Finished
 |9|Booby traps|Coding|*|`26/1/25`||
 |10|SFX|Audio|*|`26/2/25`||
 |11|Room design|Other|X|`27/1/25`||
-|12|Main theme|Audio|~|`28/1/25`||
-|13|Boss themes|Audio|~|`29/1/25`|Short loops to create themes|
+|12|Boss themes|Audio|~|`28/1/25`|Short loops to create themes|
+|13|Main theme|Audio|~|`29/1/25`||
 |14|Main menu|Coding|~|`30/1/25`||
 |15|Pause menu|Coding|~|`30/1/25`||
 |16|**SUBMIT**|Other|~|`31/1/25`||
