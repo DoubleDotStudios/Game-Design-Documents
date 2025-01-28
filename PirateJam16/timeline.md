@@ -10,7 +10,7 @@ X - Finished
 |2|Tileset|Art|X|`21/1/25`||
 |3|Player sprites|Art|X|`21/1/25`||
 |4|Player movement algorithm|Coding|X|`22/1/25`||
-|5|Boss art|Art|*|`24/1/25`||
+|5|Boss art|Art|X|`24/1/25`||
 |6|Boss movement algorithm|Coding|*|`25/1/25`||
 |7|Health and damage system|Coding|X|`25/1/25`||
 |8|Booby trap art|Art|X|`26/1/25`||
@@ -18,8 +18,8 @@ X - Finished
 |10|SFX|Audio|*|`26/2/25`||
 |11|Room design|Other|X|`27/1/25`||
 |12|Boss themes|Audio|~|`28/1/25`|Short loops to create themes|
-|13|Main theme|Audio|~|`29/1/25`||
-|14|Main menu|Coding|~|`30/1/25`||
+|13|Main theme|Audio|*|`29/1/25`||
+|14|Main menu|Coding|*|`30/1/25`||
 |15|Pause menu|Coding|~|`30/1/25`||
 |16|**SUBMIT**|Other|~|`31/1/25`||
 
