@@ -1,7 +1,7 @@
 # Introduction
 
 ## Game Summary Pitch
-[name] is a topdown, autoscrolling boss rush where you are the dungeon. You control the booby traps to eliminate the monsters that block the path of a brave adventurer who wishes to take win treasure.
+Shadowkeep is a topdown, autoscrolling boss rush where you are the dungeon. You control the booby traps to eliminate the monsters that block the path of a brave adventurer who wishes to take win treasure.
 
 ## Inspiration
 

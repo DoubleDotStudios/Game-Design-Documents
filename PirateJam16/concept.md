@@ -6,7 +6,7 @@ The player controls each rooms set of booby traps. Each trap is set in a certain
 ## Theme Interpretation
 **'*You Are The Weapon*' interpretation** - As the dungeon you are not just one but multiple weapons being used to defeat bosses.
 
-In the context of a [name] being the weapon isn't being physically held. The environment is the weapon and you control it. Since you are a weapon controlled by no-one, you may injure either entity in the room.
+In the context of a Shadowkeep being the weapon isn't being physically held. The environment is the weapon and you control it. Since you are a weapon controlled by no-one, you may injure either entity in the room.
 
 ## Primary Mechanics
 |Mechanic|Image|

@@ -19,6 +19,6 @@
 - [x] Autoscroll
 
 ## Name
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Guardian's Hollow
+- [ ] Guardian's Aegis
+- [x] Shadowkeep
