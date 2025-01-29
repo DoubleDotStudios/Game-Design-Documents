@@ -12,3 +12,8 @@
 5. [Audio](<./audio.md>)
 6. [Game Experience](<./experience.md>)
 7. [Dev Timeline](<./timeline.md>)
+
+## Code Availability
+The entirety of the project is available on GitHub: https://github.com/DoubleDotStudios/Shadowkeep
+
+Shadowkeep is licensed under the MIT License. It is free to modify, distribute, copy for commercial use and copy for private use; with the condtion of attribution.
