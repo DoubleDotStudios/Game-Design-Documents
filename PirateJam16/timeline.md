@@ -18,8 +18,8 @@ X - Finished
 |10|SFX|Audio|*|`26/2/25`||
 |11|Room design|Other|X|`27/1/25`||
 |12|Boss themes|Audio|~|`28/1/25`|Short loops to create themes|
-|13|Main theme|Audio|*|`29/1/25`||
-|14|Main menu|Coding|*|`30/1/25`||
+|13|Main theme|Audio|X|`29/1/25`||
+|14|Main menu|Coding|X|`30/1/25`||
 |15|Pause menu|Coding|~|`30/1/25`||
 |16|**SUBMIT**|Other|~|`31/1/25`||
 
